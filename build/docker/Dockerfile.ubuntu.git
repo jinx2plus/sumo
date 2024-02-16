@@ -8,7 +8,7 @@
 # If you don't need certain features and rather have a smaller container you can comment the unneeded parts below
 
 
-FROM ubuntu:jammy
+FROM ubuntu:22.04
 
 #ENV SUMO_HOME=/opt/sumo
 ENV SUMO_HOME=/usr/share/sumo
